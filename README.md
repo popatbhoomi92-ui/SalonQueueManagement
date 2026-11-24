@@ -1,6 +1,6 @@
 # Salon Queue Management System
-**Live demo:** Not deployed (no verified URL provided)
-**Hosting platform:** Not configured
+**Live demo:** https://salon-queue-management-8pxyd4s2t-popatbhoomi92-ui.vercel.app/
+**Hosting platform:** Vercel
 
 A bilingual queue-management app for salon customers and staff. Customers can join today's queue and track their token; receptionists and barbers manage service flow; owners maintain the salon menu and settings.
 
